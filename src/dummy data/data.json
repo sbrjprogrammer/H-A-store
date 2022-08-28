@@ -1,0 +1,85 @@
+[
+    {
+        "order": "shoes",
+        "username": "Jackson",
+        "gender": "male",
+        "amount":"100",
+        "date":"26/8/2022",
+    
+        "address": {
+            "streetAddress": "101",
+            "city": "San Diego",
+            "state": "CA"
+        },
+    
+    
+        "phoneNumbers": [
+            { "type": "home", "number": "7349282382" }
+        ]
+    
+    
+     },
+
+
+     {
+        "order": "shirt",
+        "username": "Jackson",
+        "gender": "male",
+        "amount":"100",
+        "date":"27/8/2022",
+    
+        "address": {
+            "streetAddress": "101",
+            "city": "San Diego",
+            "state": "CA"
+        },
+    
+    
+        "phoneNumbers": [
+            { "type": "home", "number": "7349282382" }
+        ]
+    
+    
+     },
+
+     {
+        "order": "kito",
+        "username": "sharjil",
+        "gender": "male",
+        "amount":"100",
+        "date":"28/8/2022",
+    
+        "address": {
+            "streetAddress": "101",
+            "city": "San Diego",
+            "state": "CA"
+        },
+    
+    
+        "phoneNumbers": [
+            { "type": "home", "number": "7349282382" }
+        ]
+    
+    
+     },
+     {
+        "order": "pants",
+        "username": "shahzaib",
+        "gender": "male",
+        "amount":"100",
+        "date":"29/8/2022",
+    
+        "address": {
+            "streetAddress": "101",
+            "city": "San Diego",
+            "state": "CA"
+        },
+    
+    
+        "phoneNumbers": [
+            { "type": "home", "number": "7349282382" }
+        ]
+    
+    
+     }
+]

@@ -1,4 +1,5 @@
 import "./main.css";
+import React,{useState,useEffect} from "react";
 import hello from "../../assets/hello.svg";
 import Chart from "../chart/Chart";
 import Table from "../table/Table2";
@@ -7,8 +8,11 @@ import VisibilityIcon from '@material-ui/icons/Visibility';
 import LocalOfferIcon from '@material-ui/icons/LocalOffer';
 import ThumbUpIcon from '@material-ui/icons/ThumbUp';
 import SmallTable from "../smallTable/SmallTable";
+// import data from "../../dummy data/data.json"
 
 const Main = () => {
+  // const [json, setjson] = useState(data)
+
   return (
     <main>
       <div className="main__container">
@@ -65,6 +69,7 @@ const Main = () => {
         </div>
         {/* <!-- MAIN CARDS ENDS HERE --> */}
         <SmallTable/>
+      {/* <Table data={json}/> */}
       <Table/>
         {/* <!-- CHARTS STARTS HERE --> */}
         <div className="charts">
