@@ -181,7 +181,7 @@ main {
     font-size: 14px;
   }
   
-  @media only screen and (max-width: 855px) {
+  @media only screen and (max-width: 992px) {
     .main__cards {
       grid-template-columns: 1fr;
       gap: 10px;
@@ -193,3 +193,4 @@ main {
       margin-top: 30px;
     }
   }
+
